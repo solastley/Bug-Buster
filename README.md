@@ -1,0 +1,2 @@
+# Bug-Buster
+This is a simple version of the popular arcade game "Space Invaders." It is programmed entirely in MIPS assembly language. In order to play it, you will need a special version of the MARS software which contains an LED display tool created by the University of Pittsburgh. When you open MARS, go to tools>KeyPad and LED Display Simulator. When the simulator appears, click "Connect to MIPS." Then run the program, and press the center "b" button on the simulator to begin.
